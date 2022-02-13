@@ -26,6 +26,7 @@ Accomplishments that we're proud of
 We successfully created an working android application with frontend decorated UI and backend authenticate login info and HTML parsing to get our drugs information.
 
 #What we learned
+
 Our team has a hard time coming up with the idea for our hackathon this year.
 
 It was a fun learning experience, we have 2 first-time hackers Nam and Josh. They did not have a lot of experience in coding in Java and this is their first time challenge themself to learn a new coding language.
